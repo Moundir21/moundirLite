@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+
+<book id ="b1" category="programming">
+<title lang ="en"> JavaScript : The Good Parts </title>
+<author>Douglas </author>
+<year>2008 </year>
+<publisher> o'reilly </publisher>
+<price>6.50</price>
+</book>
+
+<book id ="b2" category="economie">
+<title lang ="en"> JSON : The Good Parts </title>
+<author>moundir </author>
+<year>2004 </year>
+<publisher> o'reilly </publisher>
+<price>6.50</price>
+</book>
+
+<book id ="b3" category="database">
+<title lang ="en"> QL in a Nutshell </title>
+<author> Ayoub </author>
+<year>2023 </year>
+<publisher> O'eycopo </publisher>
+<price>6.50</price>
+</book>
+
+<magazine id="m1" category="science">
+<title lang="fr">science et Avenir</title>
+<month>Janvier </month>
+<year>2001</year>
+<price>6.50</price>
+</magazine>
+
+<magazine id="m2" category="tech">
+<title lang="en">Wired</title>
+<month>September </month>
+<year>2001</year>
+<price>7.20</price>
+</magazine>
+
+</library>
